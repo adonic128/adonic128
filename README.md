@@ -2,8 +2,7 @@
 
 A Marketing student with a growing passion for data analysis and a strong interest in transitioning to a Data Analyst role. Focused on leveraging marketing knowledge alongside technical skills in data analysis to drive informed business decisions. Committed to continuous learning, with an emphasis on enhancing analytical thinking and technical proficiency to contribute effectively to dynamic, data-driven teams in the future.
 
-* Project made by: Ha Manh Cuong
-* Notes: The dataset used in this project is for educational and research purposes only, obtained from a public source (e.g., Kaggle). It is not intended for commercial use. There may be some errors or limitations in the analysis, and any shortcomings are appreciated for feedback.
+
 
 <!--
 **adonic128/adonic128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
