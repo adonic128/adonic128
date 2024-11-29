@@ -16,6 +16,7 @@ Looking forward to connecting with:
 
 * Other data enthusiasts and aspiring data analysts!
 * Experienced data professionals who can provide mentorship and guidance.
+
 Here's what I'm working on:
 
   https://github.com/adonic128/Porforlio.git
