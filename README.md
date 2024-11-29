@@ -26,5 +26,6 @@ Key Skills:
 * Data Analysis (Python, SQL)
 * Data Visualization (Power BI)
 * Marketing Fundamentals
+
 Let's connect!
 * Email: cuonghahmc@gmail.com
